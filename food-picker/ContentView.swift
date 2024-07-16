@@ -11,7 +11,7 @@ import SwiftData
 
 
 struct ContentView: View {
-    let food=["漢堡", "沙拉", "披薩", "義大利麵", "雞腿便當", "刀削麵", "火鍋", "牛肉麵", "關東煮"]
+    let food=["漢堡", "沙拉", "披薩", "義大利麵", "雞腿便當", "刀削麵", "火鍋", "牛肉麵", "豬肉餃"]
    @State private var selectedFood: String?
    
     
